@@ -1,0 +1,17 @@
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+}
+img {
+    width: 200px;
+    height: auto;
+}
+
+body{
+    background-color: #edfaee;
+}
+title{
+    color: #008000;
+}
